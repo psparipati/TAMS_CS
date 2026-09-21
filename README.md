@@ -1,4 +1,4 @@
-# TAMS CS Experience
+# TAMS Computer Science
 
 At the Texas Academy of Mathematics and Science (TAMS, a department of the University of North Texas), I had the opportunity to take several courses in foundational computer science concepts that are putting me ahead of others in my career. These are the courses, which have their own dedicated folders, and the associated syllabi can be found in the `Course Syllabi` folder. All of them were taught in varying degrees of C/C++, though my main language of expertise is Python.
 
