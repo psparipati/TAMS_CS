@@ -1,0 +1,5 @@
+Part A:
+I used Dijkstra's algorithm to find the minimum cost path. This is because the algorithm prioritizes finding pathways with the lowest cost when dealing with weighted graphs and starting with one origin node.
+
+Part B:
+I used Prim’s algorithm to find the minimum spanning tree for the provided railroad map. This was generally easier to implement and did not sort edges, unlike Kruskal’s algorithm. It would have produced the same results regardless, so I chose the easiest option.
